@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 XaXd
@@ -332,3 +333,12 @@ jojjj
 
 
 dddddjkeekdfd
+=======
+//Tech Run
+
+
+
+var hrr16 = {
+	name: 'Daniel Ramos',
+}
+>>>>>>> 177c822729fc08a5c4ac2d2f02474eeff75ece34
